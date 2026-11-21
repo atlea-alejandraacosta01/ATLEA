@@ -1,0 +1,1 @@
+Sube unicamente index.html a GitHub y confirma la sustitucion del archivo actual. No borres ni subas imagenes. Commit sugerido: Fix cierre modal Shop the Collections. Despues recarga con Ctrl+F5.
