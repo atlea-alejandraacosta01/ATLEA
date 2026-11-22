@@ -1,10 +1,10 @@
-ATLEA V5.1 - ACTUALIZACION INCREMENTAL
+ATLEA MEN V1 - ACTUALIZACION INCREMENTAL
 
 1. No borres ningun archivo del repositorio.
 2. Descomprime este ZIP.
 3. En GitHub: Add file > Upload files.
-4. Sube index.html, las 39 imagenes JPG y VALIDACION_V51.json.
-5. Los archivos nuevos se anadiran y index.html sustituira al actual.
-6. Commit recomendado: ATLEA V5.1 - Shop the Collections y Studio.
+4. Sube index.html, los 19 JPG men_* y VALIDACION_MEN_V1.json.
+5. index.html sustituira al actual; las 19 imagenes MEN se anadiran.
+6. Commit recomendado: ATLEA MEN V1 - coleccion masculina.
 7. Espera a GitHub Pages y recarga con Ctrl+F5.
-8. Prueba Nuestras categorias, Shop the Collections, Surprise Me, Studio y Cesta.
+8. Prueba WOMEN por defecto, selector MEN, 4 categorias, color, talla, X/fondo/Escape, cesta unica y volver a WOMEN.
