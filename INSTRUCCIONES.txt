@@ -1,14 +1,14 @@
-CAMBIO AISLADO: CATEGORIAS MEN - 4 EN FILA
+ATLEA MEN V1.1 - FIX CATEGORIAS SOBRE BASE VERIFICADA
 
-Sube a GitHub UNICAMENTE:
+Subir SOLO estos 5 archivos:
 - index.html
 - men_category_shorts.jpg
 - men_category_technical.jpg
 - men_category_oversized.jpg
 - men_category_tracksuit.jpg
 
-No borres ni sustituyas ningun otro fichero.
-El JavaScript del index recibido permanece byte a byte identico.
-Solo se ha anadido CSS de presentacion MEN y se han sustituido las 4 imagenes de categoria.
-Commit sugerido: Ajuste visual categorias MEN 4 en fila.
-Recarga despues con Ctrl+F5.
+No borrar ni subir nada mas.
+Base verificada: MEN + Seguir comprando + ocultacion Shop/Studio en MEN.
+JavaScript no modificado; solo CSS MEN y 4 imagenes.
+Commit: Fix categorias MEN 4 en fila sobre V1.1.
+Recargar con Ctrl+F5.
