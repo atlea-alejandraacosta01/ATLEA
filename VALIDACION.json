@@ -1,0 +1,67 @@
+{
+  "passed": true,
+  "checks": {
+    "javascript_byte_identical": true,
+    "only_css_override_added": true,
+    "four_cards_desktop": true,
+    "full_image_contain": true,
+    "women_base_css_still_present": true,
+    "four_images": true,
+    "all_images_900x1350": true,
+    "four_unique_images": true
+  },
+  "images": [
+    {
+      "file": "men_category_shorts.jpg",
+      "source": "men_category_shorts_edited1.jpg",
+      "original": [
+        900,
+        1350
+      ],
+      "normalized": [
+        900,
+        1350
+      ],
+      "sha256": "6236d937592e183665b678b53d3e21def85604841527839025cb1fe2c84b83ab"
+    },
+    {
+      "file": "men_category_technical.jpg",
+      "source": "men_category_technical_edited1.jpg",
+      "original": [
+        562,
+        700
+      ],
+      "normalized": [
+        900,
+        1350
+      ],
+      "sha256": "11a79205d0d9ad94afbbea9a6ec068dbd132039193ab758880ed15264c81677c"
+    },
+    {
+      "file": "men_category_oversized.jpg",
+      "source": "men_category_oversized_edited1.jpg",
+      "original": [
+        618,
+        761
+      ],
+      "normalized": [
+        900,
+        1350
+      ],
+      "sha256": "6d35c8ad57be709f2ab691e8c44750db219510c05d04d884c8d06668edf6bcae"
+    },
+    {
+      "file": "men_category_tracksuit.jpg",
+      "source": "men_category_tracksuit_edited1.jpg",
+      "original": [
+        900,
+        1350
+      ],
+      "normalized": [
+        900,
+        1350
+      ],
+      "sha256": "258578888de9b9ca4a78ac17f04e0252b4043b10428a806ad31a0a2607e9267a"
+    }
+  ]
+}

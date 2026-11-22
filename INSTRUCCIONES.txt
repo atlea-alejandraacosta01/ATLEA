@@ -1,1 +1,14 @@
-Sube unicamente index.html a GitHub y confirma la sustitucion del archivo actual. No borres ni subas imagenes. Commit sugerido: Fix cierre modal Shop the Collections. Despues recarga con Ctrl+F5.
+CAMBIO AISLADO: CATEGORIAS MEN - 4 EN FILA
+
+Sube a GitHub UNICAMENTE:
+- index.html
+- men_category_shorts.jpg
+- men_category_technical.jpg
+- men_category_oversized.jpg
+- men_category_tracksuit.jpg
+
+No borres ni sustituyas ningun otro fichero.
+El JavaScript del index recibido permanece byte a byte identico.
+Solo se ha anadido CSS de presentacion MEN y se han sustituido las 4 imagenes de categoria.
+Commit sugerido: Ajuste visual categorias MEN 4 en fila.
+Recarga despues con Ctrl+F5.
