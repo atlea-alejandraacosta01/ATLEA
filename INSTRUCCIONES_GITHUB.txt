@@ -1,10 +1,14 @@
-ATLEA MEN V1 - ACTUALIZACION INCREMENTAL
+ATLEA MEN V1.1 - AJUSTES DE EXPERIENCIA
 
 1. No borres ningun archivo del repositorio.
-2. Descomprime este ZIP.
-3. En GitHub: Add file > Upload files.
-4. Sube index.html, los 19 JPG men_* y VALIDACION_MEN_V1.json.
-5. index.html sustituira al actual; las 19 imagenes MEN se anadiran.
-6. Commit recomendado: ATLEA MEN V1 - coleccion masculina.
-7. Espera a GitHub Pages y recarga con Ctrl+F5.
-8. Prueba WOMEN por defecto, selector MEN, 4 categorias, color, talla, X/fondo/Escape, cesta unica y volver a WOMEN.
+2. Sube index.html y sustituye el actual.
+3. No necesitas volver a subir imagenes: no han cambiado.
+4. VALIDACION_MEN_V11.json es informativo; puede subirse o conservarse localmente.
+5. Commit sugerido: ATLEA MEN V1.1 - vista MEN y seguir comprando.
+6. Espera GitHub Pages y recarga con Ctrl+F5.
+
+Pruebas:
+- WOMEN: Shop the Collections y ATLEA Studio visibles.
+- MEN: solo categorias MEN dentro de la experiencia de coleccion; Shop the Collections y Studio WOMEN ocultos.
+- MEN: cuatro categorias en tarjetas grandes, selector color/talla, X/fondo/Escape y cesta unica.
+- Cesta: Seguir comprando vuelve a Nuestras categorias conservando WOMEN/MEN seleccionado.

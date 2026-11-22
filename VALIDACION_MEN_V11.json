@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "checks": {
+    "women_product_data_exact": true,
+    "women_card_function_exact": true,
+    "women_fixed_outfits_exact": true,
+    "women_random_exact": true,
+    "women_studio_matrix_exact": true,
+    "men_product_data_exact": true,
+    "men_hides_shop": true,
+    "men_hides_studio": true,
+    "women_restores_shop_studio": true,
+    "men_larger_grid": true,
+    "continue_cart_button": true,
+    "continue_cart_action": true,
+    "cart_single_storage": true,
+    "men_color_selector": true,
+    "men_size_selector": true,
+    "men_add_cart": true,
+    "category_x_close": true,
+    "category_background_close": true,
+    "escape_close": true,
+    "outfit_x_fix_preserved": true,
+    "unique_html_ids": true
+  }
+}
